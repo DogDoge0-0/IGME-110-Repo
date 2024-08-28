@@ -67,3 +67,5 @@ Block
 - [markdownguide.com &#8594; Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [markdownguide.com &#8594; Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [markdowntutorial.com](https://www.markdowntutorial.com/)
+- [markdownguide.org](https://www.markdownguide.org/)
+- [markdownguide.org &#8594; Extended Syntax](https://www.markdownguide.org/extended-syntax/)
